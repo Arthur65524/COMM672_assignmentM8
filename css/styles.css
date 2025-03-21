@@ -292,4 +292,20 @@ footer img {
     footer div a {
         margin: 10px;
     }
+    .community {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        margin-bottom: 30px;
+        max-width: 1000px;
+    }
+    .community h2 {
+        margin: auto;
+    }
+    .event-block.featured {
+        grid-column: span 1;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
 }
