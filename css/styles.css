@@ -307,5 +307,12 @@ footer img {
         display: flex;
         flex-wrap: wrap;
     }
+    .feature-page-block {
+        text-align: left;
+    }
+    .feature-page-block ul {
+        list-style-type: disc;
+        margin-left: 30px;
+    }
 
 }
